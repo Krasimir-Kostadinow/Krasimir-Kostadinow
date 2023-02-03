@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krasimir Kostadinov</h1>
 <h3 align="center">Amateur frontend developer from Bulgaria</h3>
-<image src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></image>
+<image src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396"></image>
 <p align="left">
 </p>
 
