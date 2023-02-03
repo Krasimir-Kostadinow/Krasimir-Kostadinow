@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krasimir Kostadinov</h1>
 <h3 align="center">Amateur frontend developer from Bulgaria</h3>
-<image src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396"></image>
+
 <p align="left">
+  <img src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="480" height="396"></img>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
