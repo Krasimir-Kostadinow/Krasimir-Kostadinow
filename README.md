@@ -8,5 +8,5 @@
 
   ### GitHub Stats
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Krasimir-Kostadinow&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krasimir-Kostadinow&layout=compact&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krasimir-kostadinow&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krasimir-kostadinow&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
